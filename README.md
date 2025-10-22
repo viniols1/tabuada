@@ -29,5 +29,6 @@ O projeto foi construído utilizando apenas as tecnologias fundamentais do desen
 
 ---
 ## ✒️ Autor
-*Vinicius Oliveira - Desenvolvedor Front-end* |
+*Vinicius Oliveira - Desenvolvedor Front-end*
+<br>
 *LinkedIn: https://www.linkedin.com/in/viniciusoliveira1s/*
